@@ -4,7 +4,7 @@
  * @version 1.0.0
  * @description This plugin deletes messages the fucking millisecond they're sent.
  * @source https://github.com/Kohji-gh/GhostMessage
- * @updateUrl https://raw.githubusercontent.com/kohji-gh/GhostMessage/main/GhostMessage.plugin.js
+ * @updateUrl https://github.com/Kohji-gh/GhostMessage/blob/main/GhostMessage.plugin.js
  */
 
 module.exports = class GhostMessage {
