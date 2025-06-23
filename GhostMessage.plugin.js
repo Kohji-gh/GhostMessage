@@ -1,10 +1,11 @@
 /**
  * @name GhostMessage
  * @author _.kohji (Gambi)
- * @version 1.0.0
+ * @version 1.1.0
  * @description This plugin deletes messages the fucking millisecond they're sent.
+ * @donate https://cash.app/$ZiBino
  * @source https://github.com/Kohji-gh/GhostMessage
- * @updateUrl https://github.com/Kohji-gh/GhostMessage/blob/main/GhostMessage.plugin.js
+ * @updateUrl https://raw.githubusercontent.com/Kohji-gh/GhostMessage/refs/heads/main/GhostMessage.plugin.js
  */
 
 module.exports = class GhostMessage {
